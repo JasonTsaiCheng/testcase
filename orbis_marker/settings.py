@@ -112,7 +112,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': "orbis_marker",
         'USER': 'root',
-        'PASSWORD': 'ustcmbit',
+        'PASSWORD': 'dPmNCD',
         'HOST': 'localhost',
         'PORT': '3306',
     }
