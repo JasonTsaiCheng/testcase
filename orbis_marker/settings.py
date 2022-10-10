@@ -110,9 +110,9 @@ WSGI_APPLICATION = 'orbis_marker.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': "orbis_marker",
-        'USER': 'root',
-        'PASSWORD': 'dPmNCD',
+        'NAME': "dream",
+        'USER': 'dream',
+        'PASSWORD': 'Wlw8023me',
         'HOST': 'localhost',
         'PORT': '3306',
     }
